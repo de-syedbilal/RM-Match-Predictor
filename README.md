@@ -1,5 +1,5 @@
-RM Match Predictor
-I’m a massive Real Madrid fan, and honestly, I got tired of just yelling at the manager during games. I figured I’d try to channel all that frustration into something useful instead.
+RM Match Predictor <br>
+I’m a massive Real Madrid fan, and honestly, I got tired of just yelling at the manager during games. I figured I’d try to channel all that frustration into something useful instead. <br>
 This is my first time really messing around with Machine Learning. I’m still at the very beginning of my coding journey, so I’m sure there are plenty of things I could have done better, but this is my start. It’s just me trying to make sense of match data and learning as I go. Expect updates here as I actually figure out what I’m doing.
 
 Check out the live demo:
